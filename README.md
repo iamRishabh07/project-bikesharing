@@ -1,2 +1,15 @@
-# project-bikesharing
-➿ 💡 My Udacity projects that I have made to improve my skills and complete my nanodegree. Please don't use it to copy the projects. Submit the PR if you want something to be added to this repository. 
+<div align="center">
+<img
+src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/August/5b68a9b1_bikeshare-li/bikeshare-li.jpg" height="300" width="300" />
+<br />
+<h1>Predicting Bike-Sharing Patterns</h1>
+</div>
+
+## Project Overview
+
+In this project, I have built a neural network from scratch to carry out a prediction problem on a real dataset. By building a neural network from the ground up, I have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher-level tools such as PyTorch. I have also got to see how to apply these networks to solve real prediction problems.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
